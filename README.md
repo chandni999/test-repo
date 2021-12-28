@@ -4,4 +4,4 @@ this is test readme on mate
 
 editing the file to test again
 
-test branching on master
+test stashing
